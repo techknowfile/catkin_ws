@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/techknowfile/catkin_ws/install/setup.sh
